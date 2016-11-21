@@ -1,5 +1,5 @@
 # Pengalaman Ignation Sikun(Arnaz)
-[Gerakan 1000StartupDigital]
+![Gerakan 1000StartupDigital] (http://lahanberita.com/wp-content/uploads/2016/07/Gerakan-1000-Startup-Digital.jpg)
    
    Perkelankan nama saya [arnaz adiputra]  mahasiswa udinus dengan mengambil jurusan TI S1, sekitar 2 munggu lalu saya telah mengikuti rangkaian pertama di 1000startup , yaitu tahap Ignition. Tahap awal ini merupakan tahap yang keren , selain snack dan nasi kotak-nya yang enak :) saya juga mendapatkan informasi dari pengalaman pengalaman menarik dari pada panelis.
          
@@ -15,4 +15,4 @@
 [Alamanda Shantika Santoso]: <https://id.linkedin.com/in/alamanda-shantika-santoso-318b8436>
 [Daus Gonia]: <https://id.linkedin.com/in/dausgonia>
 [1000StarupDigital]: <https://1000startupdigital.id/i/>
-[Gerakan 1000StartupDigital]:<http://lahanberita.com/wp-content/uploads/2016/07/Gerakan-1000-Startup-Digital.jpg>
+
